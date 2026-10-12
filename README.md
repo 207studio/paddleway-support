@@ -1,6 +1,6 @@
 # Paddleway support
 
-Public help and privacy pages for Paddleway, a Mac and iPad remote desktop app by Yooil Jang.
+Public help and privacy pages for MackyWay (formerly Paddleway), a Mac remote desktop app for iPad and iPhone by Yooil Jang.
 
 This repository contains website content and approved promotional assets only. It does not contain app source, connection keys, private device information or customer session data.
 
